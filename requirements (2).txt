@@ -1,0 +1,6 @@
+langchain-core
+langchain-community
+langchain-groq
+streamlit
+mysql-connector-python
+pymysql
