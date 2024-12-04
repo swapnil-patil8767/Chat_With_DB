@@ -23,7 +23,8 @@
 # Workflow Explanation
 
 
-![rag](https://github.com/user-attachments/assets/05cde9c3-76bd-4107-82b9-c8ace5563053)
+![chatdb image](https://github.com/user-attachments/assets/4943c242-0ee4-41e9-95f8-074cb90a1b08)
+
 
 
 ## Steps:
